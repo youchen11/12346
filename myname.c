@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("張佑晨");
+    printf("張佑晨\n");
 }
